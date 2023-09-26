@@ -21,13 +21,12 @@ Let's Go is a full stack event search application. It was designed to help strea
 
 ## Notable Features
 
-- Fully responsive
 - Login/SignUp page
-- User's login info saved to local storage to prevent always having to log in
-- User can create groups filled with specific contacts in order to share event information
+- User's login info saved to local storage to prevent user always having to log in
+- User can create groups filled with specific contacts in order to share event information with
 - User can save an event and share with specific groups
+- User can engage in discussion around any saved event
 - Paginated search results
-- User can engage in discussion around any saved events
 
 ## What I want to work on throughout this project
 
