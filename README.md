@@ -1,6 +1,6 @@
 # Let's Go
 
-Let's Go is a full stack event search application. It was designed to help streamline a user's search for nearby events(concerts, sporting events, festivals, etc), save events and share event information with a user's social circle.
+Let's Go is a full stack event search application. It was designed to help streamline a user's search for nearby events (concerts, sporting events, festivals, etc), save events and share event information with a user's social circle.
 
 ## Images
 
